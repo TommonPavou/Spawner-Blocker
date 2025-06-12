@@ -15,8 +15,6 @@ This mod has full compatibility with most mods that introduce new spawners or al
 
 I will soon release this mod for additional Minecraft versions. To stay up to date for future updates and releases, consider following this mod!
 
-If you found any unintended behaviour, please report it via the provided issue tracker.
-
 Feel free to include this mod in your modpack!
 
 
