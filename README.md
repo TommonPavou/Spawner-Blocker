@@ -3,7 +3,7 @@ Spawner Blocker is a lightweight mod designed to simplify the gameplay. It disab
 
 Key features:
 
-- Disables all mob spawners to prevent automatic farming and mob abuse.
+- Disables all mob spawners.
 
 - Grants XP instantly when breaking a spawner, preserving part of its original value.
 
